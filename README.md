@@ -12,20 +12,29 @@ _Turning complex data challenges into elegant, scalable solutions_
 
 ---
 
-## 🏆 Latest Achievement
-
+## 🏆 Latest Achievements
+ 
 <div align="center">
-
-### 1st Place Winner — Marketing Agents Hackathon
-
+### 🥇 2x Hackathon Winner
+ 
+**1st Place — Bay Builders Hackathon · InsForge Track**
+ 
+**CustomerZero** | Agent swarm that finds a founder's first 10 customers
+ 
+Every lead ships with a **quote, a link, and a timestamp** — an adversarial verifier re-fetches each source and kills anything it can't prove. Built on InsForge's agent-native cloud infrastructure.
+ 
+[View Project](https://github.com/roopadevihosur-07/Bay-builders-Hackathon) • [Live Demo](https://4saa94xu.insforge.site)
+ 
+<br>
+**1st Place — Marketing Agents Hackathon**
+ 
 **FoundersFYI** | AI Social Media Marketing Agent for Founders
-
+ 
 Built a fully functional multi-agent AI system in **5 hours** with a complete pivot in **2.5 hours**
-
+ 
 [View Project](https://github.com/roopadevihosur-07/Founders.FYI)
-
+ 
 </div>
-
 ---
 
 ## 💼 Professional Background
