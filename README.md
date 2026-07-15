@@ -15,7 +15,7 @@ _Turning complex data challenges into elegant, scalable solutions_
 ## 🏆 Latest Achievements
  
 <div align="center">
-### 🥇 2x Hackathon Winner
+🥇 2x Hackathon Winner
  
 **1st Place — Bay Builders Hackathon · InsForge Track**
  
