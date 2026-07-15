@@ -26,7 +26,7 @@ Every lead ships with a **quote, a link, and a timestamp** — an adversarial ve
 [View Project](https://github.com/roopadevihosur-07/Bay-builders-Hackathon) • [Live Demo](https://4saa94xu.insforge.site)
  
 <br>
-**1st Place — Marketing Agents Hackathon**
+****1st Place — Marketing Agents Hackathon****
  
 **FoundersFYI** | AI Social Media Marketing Agent for Founders
  
